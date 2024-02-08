@@ -2,7 +2,7 @@
 
 ## Tecnologias Utilizadas
 
--- HTML
--- CSS
--- JavaScript
--- Github
+- HTML
+- CSS
+- JavaScript
+- Github
